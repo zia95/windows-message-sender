@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMessageSenderCS", "WinMessageSenderCS\WinMessageSenderCS.csproj", "{0BEE8242-087E-42E8-AD4C-1C026F90781D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEE8242-087E-42E8-AD4C-1C026F90781D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEE8242-087E-42E8-AD4C-1C026F90781D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEE8242-087E-42E8-AD4C-1C026F90781D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEE8242-087E-42E8-AD4C-1C026F90781D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2400A79-D591-4B59-BFB7-1EA2F38E3879}
+	EndGlobalSection
+EndGlobal
